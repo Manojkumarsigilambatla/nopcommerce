@@ -18,7 +18,7 @@ public class Base {
 			options.addArguments("--remote-allow.origins=*");
 			this.driver = new ChromeDriver(options);
 		    }
-		//hello
+		// hello This is manoj changing details
 		
 	}
 	public WebDriver getDriver()
