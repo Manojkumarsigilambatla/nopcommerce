@@ -28,6 +28,8 @@ public class PropertyReader {
     public static String  getProperty(String str)
     {
     	return properties.getProperty(str);
+		
+		//added to github by venky
     }
 	
 }
